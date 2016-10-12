@@ -1,0 +1,14 @@
+/php_errors.log
+/_ide_helper.php
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/composer.lock
+/phpunit.xml
+/_ide_helper_models.php
+/public/php_errors.log
+/.idea/
+/public/upload-restaurant-image/
+/public/data/
